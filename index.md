@@ -4,7 +4,7 @@ This is my home page! My name is Junhao Guo and I am a student at [Cal State Ful
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/guojunhao11.
+My GitHub [page](http://github.com/guojunhao11).
 
 ### CPSC 120
 
